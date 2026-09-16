@@ -1,0 +1,19 @@
+scenario,Unique_Intents_Count,Total_Examples,Intents_List
+calendar,3,11850,"['calendar_query', 'calendar_remove', 'calendar_set']"
+play,5,10120,"['play_audiobook', 'play_game', 'play_music', 'play_podcasts', 'play_radio']"
+qa,5,8425,"['qa_currency', 'qa_definition', 'qa_factoid', 'qa_maths', 'qa_stock']"
+email,4,6905,"['email_addcontact', 'email_query', 'email_querycontact', 'email_sendemail']"
+iot,9,5535,"['iot_cleaning', 'iot_coffee', 'iot_hue_lightchange', 'iot_hue_lightdim', 'iot_hue_lightoff', 'iot_hue_lighton', 'iot_hue_lightup', 'iot_wemo_off', 'iot_wemo_on']"
+general,3,4815,"['general_greet', 'general_joke', 'general_quirky']"
+weather,1,4275,['weather_query']
+transport,4,4025,"['transport_query', 'transport_taxi', 'transport_ticket', 'transport_traffic']"
+lists,3,3965,"['lists_createoradd', 'lists_query', 'lists_remove']"
+news,1,3545,['news_query']
+recommendation,3,2980,"['recommendation_events', 'recommendation_locations', 'recommendation_movies']"
+datetime,2,2890,"['datetime_convert', 'datetime_query']"
+social,2,2825,"['social_post', 'social_query']"
+alarm,3,2750,"['alarm_query', 'alarm_remove', 'alarm_set']"
+music,4,2345,"['music_dislikeness', 'music_likeness', 'music_query', 'music_settings']"
+audio,4,1935,"['audio_volume_down', 'audio_volume_mute', 'audio_volume_other', 'audio_volume_up']"
+takeaway,2,1790,"['takeaway_order', 'takeaway_query']"
+cooking,2,1630,"['cooking_query', 'cooking_recipe']"
